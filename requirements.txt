@@ -1,0 +1,14 @@
+# Core
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+pillow>=10.0
+matplotlib>=3.8
+gradio>=5.0
+
+# Feature extraction only (not needed to run the app off cached features)
+torch>=2.4
+torchvision>=0.19
+open_clip_torch>=2.24
+transformers>=4.44
+huggingface_hub>=0.24

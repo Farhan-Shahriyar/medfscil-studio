@@ -1,0 +1,5 @@
+features/
+thumbs/
+app_launch.log
+__pycache__/
+*.pyc
