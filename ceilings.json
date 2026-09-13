@@ -1,0 +1,56 @@
+{
+ "resnet50": {
+  "dermamnist": {
+   "acc": 79.40149625935162,
+   "balanced": 54.496662704415634
+  },
+  "pathmnist": {
+   "acc": 91.58774373259052,
+   "balanced": 88.92877395193834
+  },
+  "bloodmnist": {
+   "acc": 96.0830166617948,
+   "balanced": 96.1859077298362
+  },
+  "retinamnist": {
+   "acc": 61.25000000000001,
+   "balanced": 47.3561748537496
+  }
+ },
+ "dinov2": {
+  "dermamnist": {
+   "acc": 82.39401496259352,
+   "balanced": 59.65360875123579
+  },
+  "bloodmnist": {
+   "acc": 98.24612686349022,
+   "balanced": 98.24380567342966
+  },
+  "retinamnist": {
+   "acc": 69.25,
+   "balanced": 56.757121439280354
+  },
+  "pathmnist": {
+   "acc": 94.31754874651811,
+   "balanced": 91.87197531102795
+  }
+ },
+ "biomedclip": {
+  "dermamnist": {
+   "acc": 77.70573566084789,
+   "balanced": 53.819610527219
+  },
+  "pathmnist": {
+   "acc": 93.63509749303621,
+   "balanced": 91.72318247517262
+  },
+  "bloodmnist": {
+   "acc": 96.1707103186203,
+   "balanced": 95.63704796783126
+  },
+  "retinamnist": {
+   "acc": 59.25,
+   "balanced": 46.824940470941
+  }
+ }
+}
